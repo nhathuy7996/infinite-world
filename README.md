@@ -1,5 +1,9 @@
 # Infinite World System - Hệ thống Thế giới Mở Vô Tận
 
+[![Video Demo](https://img.youtube.com/vi/FApLgq2DaqA/0.jpg)](https://youtu.be/FApLgq2DaqA)
+
+**[🎥 Xem Video Demo](https://youtu.be/FApLgq2DaqA)**
+
 Hệ thống này cho phép bạn tạo game thế giới mở vô tận với các tính năng:
 
 ## 🎯 Tính năng chính
